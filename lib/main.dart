@@ -297,8 +297,8 @@ showDialog(
         content: SingleChildScrollView(
           child: ListBody(
             children: const <Widget>[
-              Text('This is a demo alert dialog.'),
-              Text('Would you like to approve of this message?'),
+              Text('This app uses the official publicly accessible Nibss account checker api to allow users verify an account number so as not to fall victims to scams and fraud. \n https://nibss-plc.com.ng/services/name-enquiry.'),
+
             ],
           ),
         ),
